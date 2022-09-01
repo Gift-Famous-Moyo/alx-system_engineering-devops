@@ -1,1 +1,1 @@
-script printing type of file named
+copy html

@@ -1,1 +1,1 @@
-Changing directories
+Changing from current to home

@@ -1,1 +1,1 @@
-listing files digit only
+script that creates directories

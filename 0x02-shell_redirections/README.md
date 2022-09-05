@@ -1,1 +1,1 @@
-Instruction that displays two files
+This instruction shows last lines of a file

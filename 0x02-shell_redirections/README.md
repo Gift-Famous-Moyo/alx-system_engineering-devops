@@ -1,1 +1,1 @@
-Instruction that print hello, world
+This instruction displays a confused smiley

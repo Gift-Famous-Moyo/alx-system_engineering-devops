@@ -1,1 +1,1 @@
-Instruction that display lines containing the pattern “root” from the file
+The instruction that display the number of lines that contain the pattern “bin” in the file

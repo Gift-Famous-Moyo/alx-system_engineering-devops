@@ -1,1 +1,1 @@
-This instruction shows last lines of a file
+This instruction dispalys the first 10 lines

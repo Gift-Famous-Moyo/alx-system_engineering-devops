@@ -1,1 +1,1 @@
-The instruction that creates
+Writing into file

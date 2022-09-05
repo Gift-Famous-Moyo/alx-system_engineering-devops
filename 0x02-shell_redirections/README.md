@@ -1,1 +1,1 @@
-An instruction that deletes all the regular files (not the directories)
+The instruction that counts the number of directories and sub-directories in the current directory

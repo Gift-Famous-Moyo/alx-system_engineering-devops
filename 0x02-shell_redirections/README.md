@@ -1,1 +1,1 @@
-This instruction displays a file
+Instruction that displays two files

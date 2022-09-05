@@ -1,1 +1,1 @@
-Instruction  that takes a list of words as input and prints only words that appear exactly once
+Instruction that display lines containing the pattern “root” from the file

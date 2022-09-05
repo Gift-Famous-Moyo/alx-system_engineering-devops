@@ -1,1 +1,1 @@
-Writing into file
+An instruction for duplication

@@ -1,1 +1,1 @@
-An instruction that counts the number of directories in the PATH
+An instruction that lists environment variables

@@ -1,1 +1,1 @@
-Instruction that  creates a new local variable
+Instruction that creates a new global variable

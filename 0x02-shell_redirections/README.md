@@ -1,1 +1,1 @@
-Instruction that lists all the files with a .gif extension in the current directory and all its sub-directories
+This instruction decodes acrostics that use the first letter of each line

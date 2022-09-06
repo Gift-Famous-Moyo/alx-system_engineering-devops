@@ -1,1 +1,1 @@
-Instruction that creates an alias
+This instruction prints hello user, where user is the current Linux user
